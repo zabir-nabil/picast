@@ -16,6 +16,8 @@
 
 ## Video Demo
 
+![](diagram.png)
+
 https://www.youtube.com/watch?v=OHKOXVxlTFc
 
 

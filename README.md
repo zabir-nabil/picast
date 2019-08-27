@@ -2,6 +2,8 @@
 
 > A lightweight fast data streaming library for raspberry pi in python.
 
+For images, TCP protocol is used, and for sensor data / other parameters UDP is used.
+
 ## Instructions
 
 1. **monitor no signal issues** https://howtoraspberrypi.com/raspberry-pi-hdmi-not-working/
